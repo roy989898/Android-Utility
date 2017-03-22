@@ -1,4 +1,4 @@
-package com.imageutility;
+package com.imageutility.Utility;
 
 import android.content.ContentUris;
 import android.content.Context;
